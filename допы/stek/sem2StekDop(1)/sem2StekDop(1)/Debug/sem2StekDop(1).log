@@ -1,0 +1,19 @@
+﻿Сборка начата 24.02.2020 16:10:31.
+     1>Проект "C:\Users\User\Desktop\oap 2 sem\допы\stek\sem2StekDop(1)\sem2StekDop(1)\sem2StekDop(1).vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\sem2StekDop(1).tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         sem2StekDop(1).vcxproj -> C:\Users\User\Desktop\oap 2 sem\допы\stek\sem2StekDop(1)\Debug\sem2StekDop(1).exe
+       FinalizeBuildStatus:
+         Файл "Debug\sem2StekDop(1).tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\sem2StekDop(1).tlog\sem2StekDop(1).lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Desktop\oap 2 sem\допы\stek\sem2StekDop(1)\sem2StekDop(1)\sem2StekDop(1).vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.31

@@ -1,0 +1,30 @@
+﻿Сборка начата 02.03.2020 15:06:16.
+     1>Проект "C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\sem2LabBitEnumVar10\sem2LabBitEnumVar10.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\sem2LabB.604FAA07.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt sem2LabBitEnumVar10.cpp
+         sem2LabBitEnumVar10.cpp
+     1>C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\sem2LabBitEnumVar10\sem2LabBitEnumVar10.cpp(108,25): warning C4018:  >: несоответствие типов со знаком и без знака
+     1>C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\sem2LabBitEnumVar10\sem2LabBitEnumVar10.cpp(130,14): warning C4101:  flag: неиспользованная локальная переменная
+     1>C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\sem2LabBitEnumVar10\sem2LabBitEnumVar10.cpp(175,12): warning C4551:  в вызове функции отсутствует список аргументов
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\Debug\sem2LabBitEnumVar10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\Debug\sem2LabBitEnumVar10.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\Debug\sem2LabBitEnumVar10.lib" /MACHINE:X86 Debug\sem2LabBitEnumVar10.obj
+         sem2LabBitEnumVar10.vcxproj -> C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\Debug\sem2LabBitEnumVar10.exe
+       FinalizeBuildStatus:
+         Файл "Debug\sem2LabB.604FAA07.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\sem2LabB.604FAA07.tlog\sem2LabBitEnumVar10.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\sem2LabBitEnumVar10\sem2LabBitEnumVar10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\sem2LabBitEnumVar10\sem2LabBitEnumVar10.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\sem2LabBitEnumVar10\sem2LabBitEnumVar10.cpp(108,25): warning C4018:  >: несоответствие типов со знаком и без знака
+         C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\sem2LabBitEnumVar10\sem2LabBitEnumVar10.cpp(130,14): warning C4101:  flag: неиспользованная локальная переменная
+         C:\Users\User\Desktop\oap 2 sem\допы\bitEnum\sem2LabBitEnumVar10\sem2LabBitEnumVar10\sem2LabBitEnumVar10.cpp(175,12): warning C4551:  в вызове функции отсутствует список аргументов
+
+    Предупреждений: 3
+    Ошибок: 0
+
+Прошло времени 00:00:02.28

@@ -1,0 +1,19 @@
+﻿Сборка начата 24.02.2020 15:48:17.
+     1>Проект "C:\Users\User\Desktop\oap 2 sem\допы\c++\sem2labC++Var9(2)\sem2labC++Var9(2)\sem2labC++Var9(2).vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\sem2labC.E44A12A3.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         sem2labC++Var9(2).vcxproj -> C:\Users\User\Desktop\oap 2 sem\допы\c++\sem2labC++Var9(2)\Debug\sem2labC++Var9(2).exe
+       FinalizeBuildStatus:
+         Файл "Debug\sem2labC.E44A12A3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\sem2labC.E44A12A3.tlog\sem2labC++Var9(2).lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Desktop\oap 2 sem\допы\c++\sem2labC++Var9(2)\sem2labC++Var9(2)\sem2labC++Var9(2).vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.33

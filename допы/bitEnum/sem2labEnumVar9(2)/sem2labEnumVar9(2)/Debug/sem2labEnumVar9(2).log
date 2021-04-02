@@ -1,0 +1,33 @@
+﻿Сборка начата 02.03.2020 14:34:07.
+     1>Проект "C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\sem2labE.4CADF410.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt "sem2labEnumVar9(2).cpp"
+         sem2labEnumVar9(2).cpp
+     1>C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(16,39): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+     1>C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(18,10): error C2280:  "fly2::fly2(void)": предпринята попытка ссылки на удаленную функцию
+       C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(17): message :  в этом месте создано компилятором: "fly2::fly2"
+       C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(17,1): message :  "fly2::fly2(void)": функция неявно удалена, так как в "fly2" содержится вариант элемента данных "fly2::name" с нетривиальным конструктор по умолчанию.
+       C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(9): message :   см. объявление "fly2::name"
+     1>C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(27,39): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+     1>C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(86,62): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+     1>Сборка проекта "C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(16,39): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+         C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(27,39): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+         C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(86,62): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+
+
+       "C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\User\source\repos\sem2labEnumVar9(2)\sem2labEnumVar9(2)\sem2labEnumVar9(2).cpp(18,10): error C2280:  "fly2::fly2(void)": предпринята попытка ссылки на удаленную функцию
+
+    Предупреждений: 3
+    Ошибок: 1
+
+Прошло времени 00:00:01.65
