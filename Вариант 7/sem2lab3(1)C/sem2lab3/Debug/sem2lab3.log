@@ -1,0 +1,4 @@
+﻿  sem2lab3.cpp
+C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2lab3(1)C\sem2lab3\sem2lab3.cpp(13,6): warning C4101:  a: неиспользованная локальная переменная
+C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2lab3(1)C\sem2lab3\sem2lab3.cpp(13,17): warning C4101:  err: неиспользованная локальная переменная
+  sem2lab3.vcxproj -> C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2lab3(1)C\Debug\sem2lab3.exe

@@ -1,0 +1,19 @@
+﻿Сборка начата 17.02.2020 16:41:40.
+     1>Проект "C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2labDvysSpiski7var\sem2labDvysSpiski7var\sem2labDvysSpiski7var.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\sem2labD.4A9B2252.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         sem2labDvysSpiski7var.vcxproj -> C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2labDvysSpiski7var\Debug\sem2labDvysSpiski7var.exe
+       FinalizeBuildStatus:
+         Файл "Debug\sem2labD.4A9B2252.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\sem2labD.4A9B2252.tlog\sem2labDvysSpiski7var.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2labDvysSpiski7var\sem2labDvysSpiski7var\sem2labDvysSpiski7var.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.24

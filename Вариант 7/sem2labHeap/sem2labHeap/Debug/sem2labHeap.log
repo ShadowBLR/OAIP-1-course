@@ -1,0 +1,21 @@
+﻿Сборка начата 06.05.2020 14:07:58.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2labHeap\sem2labHeap\sem2labHeap.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\sem2labHeap.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt sem2labHeap.cpp
+         sem2labHeap.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2labHeap\Debug\sem2labHeap.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2labHeap\Debug\sem2labHeap.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2labHeap\Debug\sem2labHeap.lib" /MACHINE:X86 Debug\Heap.obj
+         Debug\sem2labHeap.obj
+         sem2labHeap.vcxproj -> C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2labHeap\Debug\sem2labHeap.exe
+       FinalizeBuildStatus:
+         Файл "Debug\sem2labHeap.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\sem2labHeap.tlog\sem2labHeap.lastbuildstate".
+     1>Сборка проекта "C:\Users\User\Desktop\oap 2 sem\Вариант 7\sem2labHeap\sem2labHeap\sem2labHeap.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:01.52
